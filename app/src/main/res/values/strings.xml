@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KinKeeper</string>
+
+    <string name="home_subtitle">Caring for</string>
+    <string name="doses_today">Doses today</string>
+    <string name="schedule_today">Today\'s schedule</string>
+    <string name="no_doses">No medicines yet. Add the first one to build today\'s schedule.</string>
+    <string name="go_to">Go to</string>
+    <string name="open_medications">Medicines</string>
+    <string name="open_care_log">Care log</string>
+    <string name="open_profile">Patient profile</string>
+    <string name="open_emergency">Emergency card</string>
+    <string name="fall_hint">The phone watches for a fall while this screen is open. Long press the reading below to test the alert.</string>
+    <string name="no_accelerometer">No accelerometer on this device, so fall detection is off.</string>
+    <string name="fall_title">Possible fall</string>
+    <string name="fall_message">The phone dropped and hit something. Is everything alright?</string>
+    <string name="fall_all_fine">All fine</string>
+    <string name="latest_note">Latest note</string>
+    <string name="no_patient">No patient profile yet</string>
+
+    <string name="medications_title">Medicines</string>
+    <string name="add_medication">Add medicine</string>
+    <string name="edit_medication">Edit medicine</string>
+    <string name="new_medication">New medicine</string>
+    <string name="no_medications">Nothing here yet. Tap “Add medicine” to start.</string>
+    <string name="search_medicines">Search medicines</string>
+    <string name="no_matches">No medicine matches that search.</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="taken">Taken</string>
+
+    <string name="field_name">Medicine name</string>
+    <string name="field_dose">Dose, for example 1 tablet or 5 ml</string>
+    <string name="field_notes">Notes for the carer</string>
+    <string name="times_label">Times each day</string>
+    <string name="add_time">Add a time</string>
+    <string name="no_times">No times yet.</string>
+    <string name="remove">Remove</string>
+    <string name="needs_name">Enter a medicine name.</string>
+    <string name="needs_time">Add at least one time.</string>
+    <string name="delete_question">Delete this medicine?</string>
+    <string name="delete_body">It will disappear from today\'s schedule too.</string>
+
+    <string name="care_log_title">Care log</string>
+    <string name="note_hint">What happened? For example: slept badly, refused breakfast</string>
+    <string name="add_note">Add note</string>
+    <string name="no_notes">No notes yet. Write down anything the doctor might ask about.</string>
+    <string name="needs_note">Write something first.</string>
+    <string name="note_added">Note saved.</string>
+    <string name="delete_note_question">Delete this note?</string>
+
+    <string name="appointments_title">Appointments</string>
+    <string name="open_appointments">Appointments</string>
+    <string name="add_appointment">Add appointment</string>
+    <string name="new_appointment">New appointment</string>
+    <string name="edit_appointment">Edit appointment</string>
+    <string name="no_appointments">No appointments yet. Add the next doctor visit.</string>
+    <string name="next_appointment">Next appointment</string>
+    <string name="field_title">What is it? For example: Dr Weber, check-up</string>
+    <string name="field_location">Where is it?</string>
+    <string name="field_appt_notes">Notes, for example: bring blood test results</string>
+    <string name="when_label">When</string>
+    <string name="pick_date">Pick a date</string>
+    <string name="pick_time">Pick a time</string>
+    <string name="needs_title">Give the appointment a name.</string>
+    <string name="delete_appointment_question">Delete this appointment?</string>
+
+    <string name="profile_title">Patient profile</string>
+    <string name="p_name">Full name</string>
+    <string name="p_age">Age</string>
+    <string name="p_blood">Blood group</string>
+    <string name="p_allergies">Allergies, separated by commas</string>
+    <string name="p_conditions">Conditions</string>
+    <string name="p_doctor">Doctor</string>
+    <string name="p_contact">Emergency contact number</string>
+    <string name="p_large">Always use large text on the emergency card</string>
+    <string name="saved">Profile saved.</string>
+
+    <string name="emergency_title">Emergency card</string>
+    <string name="allergies_heading">Allergies</string>
+    <string name="none_recorded">None recorded</string>
+    <string name="call">Call contact</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Emergency card copied.</string>
+    <string name="no_number">No contact number in the profile yet.</string>
+
+    <string-array name="blood_groups">
+        <item>Not known</item>
+        <item>A+</item>
+        <item>A−</item>
+        <item>B+</item>
+        <item>B−</item>
+        <item>AB+</item>
+        <item>AB−</item>
+        <item>O+</item>
+        <item>O−</item>
+    </string-array>
+</resources>
